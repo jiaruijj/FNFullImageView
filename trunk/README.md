@@ -22,7 +22,7 @@ pod "FNFullImageView"
 
 ## Author
 
-王宝安, baoan.wang@feiniu.com
+JR, jiaruijj@163.com
 
 ## License
 
