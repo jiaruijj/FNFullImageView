@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FNFullImageView_Example' do
+  pod 'FNFullImageView', :path => '../'
+
+  target 'FNFullImageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
