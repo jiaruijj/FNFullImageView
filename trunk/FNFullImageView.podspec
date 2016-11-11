@@ -10,7 +10,7 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/<GITHUB_USERNAME>/FNFullImageView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { ‘贾睿’ => 'jiaruijj@163.com' }
+  s.author           = { 'JR' => 'jiaruijj@163.com' }
   s.source           = { :git => "https://github.com/jiaruijj/FNFullImageView.git" }
 
   s.ios.deployment_target = '7.0'
